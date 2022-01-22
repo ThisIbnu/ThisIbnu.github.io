@@ -73,7 +73,7 @@ section .title::after{
     font-size: 20px;
     color: crimson;
     padding: 0 5px;
-    background: #fff;
+    background: #000000;
     transform: translateX(-50%);
 }
 
@@ -96,7 +96,7 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #fff;
+    color: #000000;
     font-size: 35px;
     font-weight: 600;
 }
@@ -105,7 +105,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #fff;
+    color: #000000;
 }
 .navbar .menu li{
     list-style: none;
@@ -113,7 +113,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: #000000;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -123,12 +123,12 @@ section .title::after{
     color: crimson;
 }
 .navbar.sticky .menu li a:hover{
-    color: #fff;
+    color: #000000;
 }
 
 /* menu btn styling */
 .menu-btn{
-    color: #fff;
+    color: #000000;
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -142,7 +142,7 @@ section .title::after{
     bottom: 10px;
     text-align: center;
     line-height: 45px;
-    color: #fff;
+    color: #000000;
     z-index: 9999;
     font-size: 30px;
     border-radius: 6px;
@@ -167,7 +167,7 @@ section .title::after{
     display: flex;
     background: url("https://i.ibb.co/hR8fLXk/976.jpg") no-repeat center;
     height: 100vh;
-    color: #fff;
+    color: #000000;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -199,7 +199,7 @@ section .title::after{
 .home .home-content a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #000000;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
@@ -243,7 +243,7 @@ section .title::after{
 .about .about-content .right a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #000000;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
@@ -259,12 +259,12 @@ section .title::after{
 
 /* services section styling */
 .services, .teams{
-    color:#fff;
+    color:#000000;
     background: #111;
 }
 .services .title::before,
 .teams .title::before{
-    background: #fff;
+    background: #000000;
 }
 .services .title::after,
 .teams .title::after{
@@ -295,7 +295,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
-    color: #fff;
+    color: #000000;
 }
 .services .serv-content .card .text{
     font-size: 25px;
@@ -322,7 +322,7 @@ section .title::after{
 .skills .skills-content .left a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #000000;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
@@ -417,7 +417,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
-    border-color: #fff;
+    border-color: #000000;
 }
 .owl-dots{
     text-align: center;
@@ -518,7 +518,7 @@ section .title::after{
   align-items: center;
 }
 .right form .button-area button{
-  color: #fff;
+  color: #000000;
   display: block;
   width: 160px!important;
   height: 45px;
@@ -540,7 +540,7 @@ section .title::after{
 footer{
     background: #111;
     padding: 15px 23px;
-    color: #fff;
+    color: #000000;
     text-align: center;
 }
 footer span a{
