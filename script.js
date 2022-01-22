@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Pelajar Smp N1 Jeruklegi", "Murid Kelas IXE", "Apps/Web Designer", "Creator Bot"],
+        strings: ["Pelajar Smp N1 Jeruklegi", "Murid Kelas IXE", "Wibu Lokal", "Kang Halu"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Murid Smp N1 Jeruklegi", "Discord Bot Developer", "Apps/Web Designer", "Whatsapp Bot Developer"],
+        strings: ["Pelajar Smp N1 Jeruklegi", "Murid Kelas IXE", "Wibu Lokal", "Kang Halu"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
