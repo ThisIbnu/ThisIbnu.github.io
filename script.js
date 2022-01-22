@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Pelajar Smp N1 Jeruklegi", "Murid Kelas IXE", "Wibu Lokal", "Kang Halu"],
+        strings: ["Umur Saya Sekarang 15 to 16 Tahun", "Dan Saya Mempunyai Hobi Pemrograman Dan Bermain Game", "Saya Tinggal Di Cilacap, JL.Ismoyo Baru Tritih Wetan"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -77,7 +77,7 @@ let body = document.querySelector('.message');
     let searchBtn = document.querySelector('.searchBtn');
     
     searchBtn.onclick = function(){
-        let url = 'mailto:adiicotz@gmail.com?subject='+subject.value;
+        let url = 'mailto:ibnunurramadani175@gmail.com?subject='+subject.value;
         let url2 = '&body='+message.value;
         window.open(url+url2,'_self');
     }
